@@ -1,0 +1,24 @@
+@font-face
+{
+	font-family: 'Blank River';
+	src: url('assets/fonts/Blank River.ttf')
+
+}
+
+body
+{
+	background-color: lightblue;
+}
+
+header
+{
+	font-size: 60px;
+	font-family: 'Blank River', Arial, serif;
+	text-align: center;
+	padding: 0;
+}
+h1
+{
+	margin: 0;
+}
+
